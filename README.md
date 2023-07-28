@@ -1,8 +1,8 @@
-# Atividades
+# SENAI2023
 ---
-## Repositorio com códigos e exercícios c, HTML
-- Para executar, utilize DevC++ e/ou um Browser
+## Repositório com códigos em projetos para as matérias do senai
+- Para executar, utilize DevC++ , Browser e/ou Notepad++
   
-|C|HTML|
-|-|-|
-|DevC++|Browser|
+|C|HTML|Promp.Comando|
+|-|-|-|
+|DevC++|Browser|NotePad|
