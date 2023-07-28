@@ -5,4 +5,4 @@
   
 |C|HTML|Promp.Comando|
 |-|-|-|
-|DevC++|Browser|NotePad|
+|DevC++|Browser|NotePad++|
