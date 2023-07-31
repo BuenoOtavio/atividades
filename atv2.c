@@ -5,20 +5,17 @@ int main()
   int velocidade;
   int distancia;
   
-  printf("CALCULADOR DE TEMPO: \n");
+  printf("Exercicio 2: \n");
   printf(" \n");
-  printf("Bem vindo ao CALCULADO DE TEMPO! o programa que calcula quanto tempo voce vai demorar em relacao a sua velocidade e distancia!! \n");
+  printf("Digite a sua velocidade (km/h): \n");
+  scanf("%d", &velocidade);
   printf(" \n");
-  printf("Vamos la! digite a sua velocidade (km/h): \n");
-  scanf("%i", &velocidade);
+  printf("Digite a sua distancia (km): \n");
+  scanf("%d", &distancia);
   printf(" \n");
-  printf("Agora, digite a sua distancia (km): \n");
-  scanf("%i", &distancia);
-  printf(" \n");
-  printf("Muito bem! Agora vamos calcular:");
+  printf("Resultado: \n");
   printf(" \n");
   int calc = distancia/velocidade;
-  printf("Voce ira demorar %i hora(s) para chegar ao seu destino!",calc);
+  printf("Voce ira demorar %d hora(s) para chegar ao seu destino!! \n",calc);
   return 0;
 }
-
